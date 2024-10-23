@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code" />
 </p>
 
-<b>Статус GitHub</b>
+### Аналитика
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-da&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" />
