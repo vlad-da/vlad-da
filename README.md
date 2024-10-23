@@ -7,6 +7,16 @@
 
 Я очень отзывчивый и открытый, поэтому всегда рад поделиться опытом или перенять его. Поэтому давай развиваться вместе в мире крутого Frontend'а!
 
+<p align="left"> 
+    <a href="https://t.me/vlasenko_vlad" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    </a>
+    <img width="12" />
+    <a href="https://vk.com/ricktaft" target="_blank">
+        <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk" height="25" alt="telegram logo"  />
+    </a>
+</p>
+
 ### Skills
 
 <p align="left">
@@ -36,19 +46,6 @@
     <img width="12" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code" />
 </p>
-
-### Как связаться
-
-<p align="left"> 
-    <a href="https://vk.com/ricktaft" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-    </a>
-    <img width="12" />
-    <a href="https://t.me/vlasenko_vlad" target="_blank">
-        <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk" height="25" alt="telegram logo"  />
-    </a>
-</p>
-
 
 <b>Статус GitHub</b>
 
